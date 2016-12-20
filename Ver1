@@ -1,7 +1,0 @@
-static void Main(string[] args)
-{
-Console.Writeline("helloworld");
-Console.Writeline("It was update with the branch");
-Console.Writeline("made by Vova and Pasha");
-
-Console.Readline();
